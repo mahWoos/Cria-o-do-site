@@ -5,7 +5,7 @@ header{
     justify-content:space-around;
     height: 100px;
 }
-
+body {font-family: 'Merriweather', serif;}
 .logo-cabecalho{
 width: 60% ;
 
